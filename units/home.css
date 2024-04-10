@@ -1,0 +1,16 @@
+.header{
+    background-color: rebeccapurple;
+    color: papayawhip;
+    padding: 1em 0;
+    height: 100vh;
+}
+
+.header__title{
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.section__container{
+    border: 2px solid red;
+    width: 60vw;
+}
